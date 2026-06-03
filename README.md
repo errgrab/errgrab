@@ -1,4 +1,4 @@
-## Hi there 👋
+## {Hi,Olá,H 👋
 
 <!--
 **errgrab/errgrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I like to {read,write} code
+- I work with C,C++,Rust,Python,{Java,Type}Script,Lua and many more!
+- I love {3D,GameDev,VR} stuff
+- 42! The answer for mostly everything... I guess.
+- Me? I was crazy once...
